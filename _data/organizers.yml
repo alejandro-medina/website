@@ -1,0 +1,6 @@
+- 
+  group: "Cool Communities"
+  elements: 
+    - {name: "Future Lab", description: "A tech community based in Guanajuato", link: "https://futurelab.mx", imageUrl: "futurelab.svg", heigth: "300px"}
+    - {name: "AJC Yucatán", description: "A non-profit science outreach community based in Yucatan", link: "https://facebook.com/ajcyucatan", imageUrl: "ajc-yuc.svg", heigth: "300px"}
+    - {name: "Fab City Yucatán", description: "A global network initiative for smart cities", link: "https://fab.city", imageUrl: "fabcity-yuc.svg", heigth: "300px"}

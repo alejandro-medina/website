@@ -1,0 +1,64 @@
+- 
+  id: 0
+  name: "Rodolfo"
+  surname: "Ferro"
+  title: "General Coordination"
+  thumbnailUrl: RodolfoFerro.png
+  team: true
+  social: 
+    - {name: "twitter", link: "https://twitter.com/FerroRodolfo"}
+    - {name: "github", link: "https://github.com/RodolfoFerro"}
+    - {name: "site", link: "https://rodolfoferro.xyz"}
+- 
+  id: 1
+  name: "Ricardo"
+  surname: "Mirón"
+  title: "General Coordination"
+  thumbnailUrl: RicardoMiron.png
+  team: true
+  social:
+    - {name: "twitter", link: "https://twitter.com/richard016"}
+    - {name: "github", link: "https://github.com/ricardomiron"}
+    - {name: "site", link: "https://www.linkedin.com/in/ricardomiron"}
+- 
+  id: 2
+  name: "Verónica"
+  surname: "Bañuelos"
+  title: "Finance & Treasure Coordination"
+  thumbnailUrl: VeronicaBanuelos.png
+  team: true
+- 
+  id: 4
+  name: "Ileana"
+  surname: "Cerón"
+  title: "Media & Logistics Coordination"
+  thumbnailUrl: IleanaCeron.png
+  team: true
+- 
+  id: 7
+  name: "Jorge A."
+  surname: "Flores"
+  title: "Relations & Partnerships Coordination"
+  thumbnailUrl: JorgeFlores.png
+  team: true
+- 
+  id: 12
+  name: "Mario"
+  surname: "Guajardo-Céspedes"
+  title: "Advisory Committee"
+  thumbnailUrl: MarioGuajardo.png
+  subTeam: true
+- 
+  id: 13
+  name: "Carla"
+  surname: "Márquez-Luna"
+  title: "Advisory Committee"
+  thumbnailUrl: CarlaMarquez.png
+  subTeam: true
+- 
+  id: 14
+  name: "Gustavo"
+  surname: "Hernández"
+  title: "Advisory Committee"
+  thumbnailUrl: GustavoHernandez.png
+  subTeam: true

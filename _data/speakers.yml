@@ -1,0 +1,89 @@
+- 
+  id: 3
+  name: "Benjamín"
+  surname: "Sánchez-Lengeling"
+  company: "Google"
+  title: "Research Scientist"
+  bio: "Benjamín earned his Ph.D at Harvard University under the supervision of Professor Alán Aspuru-Guzik, and currently he works at Google Brain as a Research Scientist. His research centers around using machine learning techniques to build data-driven models for prediction of molecular properties and generation of new molecules and materials via generative models. Applications include solar cells, solubility, drug-design, and smelly molecules. For him, education has been truly a transformative experience. He dedicates part of his time to two projects of which he is a contributor and also founding member: Clubes de Ciencia México and RIIAA Conference, a summer school and ML conference in Mexico."
+  thumbnailUrl: BenjaminSanchez.png
+  rockstar: true
+- 
+  id: 4
+  name: "Teresa"
+  surname: "Tamayo-Mendoza"
+  company: "Harvard University"
+  title: "Chemical Physicist"
+  bio: "..."
+  thumbnailUrl: TeresaTamayo.png
+  rockstar: true
+- 
+  id: 5
+  name: "Guillermina"
+  surname: "Sutter-Schneider"
+  company: "GW Arts & Sciences"
+  title: "Data Scientist"
+  bio: "..."
+  thumbnailUrl: GuillerminaSutter.png
+  rockstar: true
+- 
+  id: 6
+  name: "Montserrat"
+  surname: "González"
+  company: "Google"
+  title: "Research Engineer"
+  bio: "Montserrat González-Arenas is a Research Engineer at the Google Robotics group. She received a B.Sc in Computer Science from Instituto Tecnológico de Monterrey and a M.Sc in Statistics from Carnegie Mellon University. In 2014, she joined Google Speech group to work on Language Modeling. During her time in speech, she focused on developing Bayesian interpolation techniques for multi-domain large language models as well as Memory Networks. Her research was used for achieving high accuracy speech recognition in Google Home. In 2018, she joined Google Robotics. She is currently working on researching Reinforcement Learning algorithms to enable robots to perform navigation and manipulation tasks in real world environments."
+  thumbnailUrl: MontserratGonzalez.png
+  rockstar: true
+  ribbon:
+    - {abbr: "PAIR", title: "People + AI Mentor", url: "https://pair.withgoogle.com"}
+- 
+  id: 8
+  name: "Alejandro"
+  surname: "Noriega-Campero"
+  company: "MIT Media Lab"
+  title: "Prosperia Labs Founder"
+  bio: "Alejandro earned a Ph.D focused on Applied Artificial Intelligence at the MIT Media Lab, and a M.Sc degree in Technology and Policy from the MIT Institute for Data, Systems, & Society (IDSS). The vision driving Alejandro’s career is to bridge academic breakthroughs in AI with their sensible application for the public good. He has led applied research projects with the United Nations' Big Data initiative (Global Pulse), the national governments of Mexico, Colombia, Costa Rica, Panama, Andorra, and Saudi Arabia, as well as several partners in industry. He recently founded Prosperia Labs, a social impact MIT spinoff developing AI solutions in the areas of poverty and health. He there leads a collaboration between MIT and the Inter-American Development Bank (IDB) focused on developing AI Systems for the Fair and Efficient Targeting of Social Policies—such as Conditional Cash Transfers—across the globe. At Prosperia he also leads the development of Human+Ai decision systems for massifying early detection of chronic diseases in developing countries, with an emphasis on diabetes."
+  thumbnailUrl: AlejandroNoriega.png
+  rockstar: true
+- 
+  id: 9
+  name: "Gustavo"
+  surname: "Hernández-Ábrego"
+  company: "Google"
+  title: "Research Engineer"
+  bio: "Gustavo Hernández-Ábrego is a software engineer at Google Research, where he works on semantic representations across languages and its applications. He received his B.Sc in Electrical Engineering from Universidad La Salle, Mexico, and the Ph.D degree in Telecommunications from Universitat Politècnica de Catalunya (Barcelona Tech). Prior to Google, he worked in the Research departments of Sony Electronics, PlayStation and Microsoft. He is author of more than 20 research papers and holds more than 10 US patents."
+  thumbnailUrl: GustavoHernandez.png
+  rockstar: true
+  ribbon:
+    - {abbr: "PAIR", title: "People + AI Mentor", url: "https://pair.withgoogle.com"}
+- 
+  id: 10
+  name: "Andrés"
+  surname: "Muñoz"
+  company: "Google"
+  title: "Research Scientist"
+  bio: "Andrés is a Mexican Research Scientist at Google New York. Andrés' research is focused on Machine Learning, Privacy and Market algorithms for revenue optimization. He got his Ph.D in Mathematics from the Courant Institute of Mathematical Sciences (NYU), under the advise of Mehryar Mohri. Andrés is very pasionate about applied research with strong theoretical guarantees."
+  thumbnailUrl: AndresMunoz.png
+  rockstar: true
+  ribbon:
+    - {abbr: "PAIR", title: "People + AI Mentor", url: "https://pair.withgoogle.com"}
+- 
+  id: 11
+  name: "Christopher"
+  surname: "Tignor"
+  company: "Google"
+  title: "Software Engineer"
+  bio: "Christopher Tignor has been a Google Software Engineer for 9 years working in the Search, Maps, and Ads divisions. His current work focuses on various optimizations within the real-time ad auction ecosystem."
+  thumbnailUrl: ChristopherTignor.png
+  rockstar: true
+  ribbon:
+    - {abbr: "PAIR", title: "People + AI Mentor", url: "https://pair.withgoogle.com"}
+- 
+  id: 12
+  name: "Isaac"
+  surname: "Carrada"
+  company: "IBM"
+  title: "Software Engineer"
+  bio: "..."
+  thumbnailUrl: IsaacCarrada.png
+  rockstar: true

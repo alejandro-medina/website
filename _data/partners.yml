@@ -1,0 +1,18 @@
+- 
+  group: "Diamond Sponsor"
+  elements: 
+    - {name: "Google", description: "Google LLC", link: "https://about.google/intl/en", imageUrl: "google.svg", heigth: "400px"}
+- 
+  group: "Platinum Sponsor"
+  elements: 
+    - {name: "IBM", description: "IBM Corporation", link: "https://www.ibm.com/ibm/us/en", imageUrl: "ibm.svg", heigth: "400px"}
+- 
+  group: "Silver Sponsor"
+  elements: 
+    - {name: "SoldAI", description: "SoldAI", link: "https://www.soldai.com", imageUrl: "soldai.svg", heigth: "400px"}
+- 
+  group: "Allies"
+  elements: 
+    - {name: "Fablab Yucatán", description: "Fablab Yucatán", link: "http://fablabyucatan.com", imageUrl: "fablab-yuc.svg", heigth: "400px"}
+    - {name: "CIMAT", description: "Centro de Investigación en Matemáticas", link: "https://cimat.mx", imageUrl: "cimat.svg", heigth: "400px"}
+    - {name: "PCTY", description: "Parque Científico y Tecnológico de Yucatán", link: "https://pcty.com.mx/", imageUrl: "pcty.svg", heigth: "400px"}

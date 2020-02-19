@@ -1,0 +1,79 @@
+- 
+  date: "2020-03-12"
+  dateReadable: "March 12"
+  tracks: 
+    - {title: "Conference Stage", color: "#90be4e"}
+    - {title: "Room 1", color: "#03a9f4"}
+    - {title: "Room 2", color: "#e91e63"}
+  timeslots:
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [002, 003, 004]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [003, 404, 004]
+    }
+    - {
+    	startTime: "12:00",
+    	endTime: "18:00",
+    	sessionIds: [307]
+    }
+- 
+  date: "2020-03-13"
+  dateReadable: "March 13"
+  tracks: 
+    - {title: "Conference Stage", color: "#90be4e"}
+    - {title: "Room 1", color: "#03a9f4"}
+    - {title: "Room 2", color: "#e91e63"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [404, 002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [002, 003]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "18:00",
+    	sessionIds: [503]
+    }
+- 
+  date: "2020-03-14"
+  dateReadable: "March 14"
+  tracks: 
+    - {title: "Conference Stage", color: "#90be4e"}
+    - {title: "Room 1", color: "#03a9f4"}
+    - {title: "Room 2", color: "#e91e63"}
+  timeslots: 
+    - {
+    	startTime: "10:00",
+    	endTime: "10:45",
+    	sessionIds: [404, 002]
+    }
+    - {
+    	startTime: "11:00",
+    	endTime: "11:45",
+    	sessionIds: [002, 003]
+    }
+    - {
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [003]
+    }
+    - {
+    	startTime: "14:00",
+    	endTime: "18:00",
+    	sessionIds: [503]
+    }

@@ -1,0 +1,107 @@
+-
+  id: 307
+  title: "Coffee Break"
+  place: "Hall"
+  service: true
+  description: "The best time to talk with speakers and attendees"
+-
+  id: 503
+  title: "Lunch Break"
+  place: "Dining Room"
+  service: true
+-
+  id: 001
+  title: "Machine Learning for Scent: Learning Generalizable Perceptual Representations of Small Molecules"
+  description: "Predicting the relationship between a molecule's structure and its odor remains a difficult, decades-old task. This problem, termed Quantitative Structure-Odor Relationship (QSOR) modeling, is an important challenge in chemistry, impacting human nutrition, manufacture of synthetic fragrance, the environment, and sensory neuroscience. We propose the use of graph neural networks for QSOR, and show they significantly out-perform prior methods on a novel data set labeled by olfactory experts. Additional analysis shows that the learned embeddings from graph neural networks capture a meaningful odor space representation of the underlying relationship between structure and odor, as demonstrated by strong performance on two challenging transfer learning tasks. Machine learning has already had a large impact on the senses of sight and sound. Based on these early results with graph neural networks for molecular properties, we hope machine learning can eventually do for olfaction what it has already done for vision and hearing."
+  subtype: keynote
+  speakers: [3]
+  language: EN
+  complexity: "Intermediate"
+-
+  id: 002
+  title: "Building intuition of Deep Learning with Sonnet"
+  description: "Using linear algebra and linear models, we will build an intuition of how Neural Networks work. In this Hands-On Workshop we will use Colab and Sonnet to explore how to build and optimize Neural Networks."
+  subtype: workshop
+  speakers: [3]
+  language: EN
+  complexity: "Intermediate"
+-
+  id: 003
+  title: "Best Practices for AI Product Decisions"
+  description: "What is the role that we, as product creators, play in building Artificial Intelligence-driven products that are human-centered, ethical, and inclusive? We share insights from the new People + AI Guidebook, a resource Google product teams have utilized to navigate AI product decisions over the past year. Through recommendations, frameworks, and examples, you'll learn how to assess whether a problem is a good fit for ML, collect representative training data, and help users understand how to interact with AI systems."
+  subtype: keynote
+  speakers: [9]
+  language: EN
+  complexity: "Beginner"
+-
+  id: 004
+  title: "Robotics: Where are we? Myths, Challenges and Promises of Reinforcement Learning for Real World Robots"
+  description: "The ultimate test of Artificial Intelligence is creating an agent that is able to interact with the real world. The field of Robotics aims to achieve this feat. Recent advances in Deep Reinforcement Learning have shed new light into what Robots are able to learn. However, there are a lot of misconceptions surrounding the challenges and capabilities of these novel techniques. This talk aims to paint a clear picture of the current state of the art Deep Learning techniques for robotics, what they have achieved so far and where they are falling behind in real world robotics."
+  subtype: keynote
+  speakers: [6]
+  language: EN
+  complexity: "Beginner"
+-
+  id: 005
+  title: "Introduction to Privacy"
+  description: "As more and more data becomes available to create models. Researchers and Machine Learning practitioners need to be aware of the privacy risks that come with handling this data. In this talk I will present real world scenarios where companies failed to properly anonymize their results and the consequences of those scenarios. I will also introduce the audience to modern notions of privacy and how to implement them in practice."
+  subtype: keynote
+  speakers: [10]
+  language: EN
+  complexity: "Begginer"
+-
+  id: 006
+  title: "Optimization Models in Practice: Industry-Specific Topics in Statistical Modeling"
+  description: "This talk will focus on various examples from my time at Google working with various statistical models deployed across our planetary fleet. A key focus will be specific infrastructural and business issues unique to industry applications typically not present in academic contexts."
+  subtype: keynote
+  speakers: [11]
+  language: EN
+  complexity: "Intermediate"
+-
+  id: 007
+  title: "Algorithmic Targeting of Social Policies: Fairness, Accuracy, and Distributed Governance"
+  description: "Targeted social policies are the main strategy for poverty alleviation across the developing world. These include targeted Cash Transfers (CTs), as well as targeted subsidies in health, education, housing, energy, childcare, and others. Due to the scale, diversity, and wide-spread relevance of targeted social policies like CTs, the algorithmic rules that decide who is eligible to benefit from them—and who is not—are among the most important algorithms operating in the world today. Here we report on a year-long engagement towards improving social targeting systems in a couple of developing countries. We demonstrate that a shift towards the use of AI methods in poverty-based targeting can substantially increase accuracy, extending the coverage of the poor by nearly a million people in two countries, without increasing expenditure. However, we also show that, absent explicit parity constraints, both status quo and AI-based systems induce disparities across population subgroups. Moreover, based on qualitative interviews with local social institutions, we find a lack of consensus on normative standards for prioritization and fairness criteria. Hence, we close by proposing a decision-support platform for distributed governance, which enables a diversity of institutions to customize the use of AI-based insights into their targeting decisions."
+  subtype: keynote
+  speakers: [8]
+  language: EN
+  complexity: "Beginner"
+-
+  id: 008
+  title: "People + AI: Designing Human-Centered AI Products"
+  description: "TBA"
+  subtype: workshop
+  speakers: [6, 9, 10, 11]
+  language: ESP
+  complexity: "Beginner"
+-
+  id: 009
+  title: "Introducción a la Ciencia de Datos con Watson"
+  description: "TBA"
+  subtype: workshop
+  speakers: [12]
+  language: ESP
+  complexity: "Beginner"
+-
+  id: 010
+  title: "Introducción a Inteligencia Artificial con Watson"
+  description: "TBA"
+  subtype: workshop
+  speakers: [12]
+  language: ESP
+  complexity: "Beginner"
+-
+  id: 011
+  title: "TBA"
+  description: "TBA"
+  subtype: keynote
+  speakers: [4]
+  language: ESP
+  complexity: "Expert"
+-
+  id: 012
+  title: "TBA"
+  description: "TBA"
+  subtype: keynote
+  speakers: [5]
+  language: EN
+  complexity: "Beginner"
