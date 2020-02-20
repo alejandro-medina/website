@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Datostada: Where Science and Industry meet Data, in Mexico"
 email: "hola@datostada.mx"
 description: "Datostada: Where Science and Industry meet Data, in Mexico"
-baseurl: ""
+baseurl: "https://datostada.mx"
 url: "https://datostada.mx"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-43643469-5"
